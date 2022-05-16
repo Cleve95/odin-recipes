@@ -1,0 +1,25 @@
+h1 {
+    color: rgb(252, 248, 36);
+    background-color: rgb(24, 123, 148);
+    text-align: center;
+    border-radius: 350%;
+}
+
+.link {
+    color: rgb(216, 36, 36);
+    font-size: 30px;
+    text-decoration: underline;
+    text-decoration-color:rgb(8, 112, 182)
+}
+
+img {
+    height: 200px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-color: rgba(42, 255, 209, 0.288);
+}
